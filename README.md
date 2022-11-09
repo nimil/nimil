@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nimil
+- 👀 I’m interested in Java,Go
+- 🌱 I’m currently learning network
+- 📫 How to reach me nimilgg@qq.com
